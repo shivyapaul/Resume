@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Shivya Paul",
+    "section": "",
+    "text": "(217)-898-8469 | https://www.linkedin.com/in/shivya-paul/ | shivyapaul1@gmail.com"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Shivya Paul",
+    "section": "Education",
+    "text": "Education\n\nUniversity of Wisconsin Madison\nMaster of Science in Psychology: Data Science in Human Behavior\nAugust 2025 - December 2026\n\n\nUniversity of Illinois Urbana-Champaign\nBachelor of Science in Psychology (Behavioral Neuroscience)\nAugust 2021 - May 2025\nGPA: 3.77/4\nCommunication Minor\nLAS James Scholar, Dean’s List 2023, 2024\n\n\nRelevant Coursework\nBehavioral Neuroscience, Programming for Behavioral Data Science, Design and Analysis of Psychological Experiments, Applied Machine Learning for Behavioral Data Science, Interpersonal Communication, Industrial Organizational Psychology, Psychology of Personality, Public Speaking, Introduction to Advertising, Communicating Public Policy, Writing and Research"
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "Shivya Paul",
+    "section": "Technical Skills",
+    "text": "Technical Skills\nPython, R, Excel, Statistical Analysis, Experimental Design, Survey Methodology, Data Collection, Quantitative Research, Qualitative Research, Research Documentation, Generative AI, Large Language Models, Prompt Design"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Shivya Paul",
+    "section": "Experience",
+    "text": "Experience\n\nGraduate Student Researcher - Survey Responder Project\nUniversity of Wisconsin-Madison\nMarch 2026 - Present\nMadison, WI\n\nExamined the use of large language models to generate survey responses for higher education research\nLeveraged Ollama to generate and manage AI-produced survey responses for project testing and evaluation\nContributed to research activities involving generative AI, prompt design, survey methodology, and applied data science\n\n\n\nResearch Assistant at Antonson Developmental Neuroimmunology Laboratory\nUniversity of Illinois at Urbana-Champaign\nNovember 2024 - May 2025\nChampaign, IL\n\nSupported neuroimmunology research investigating MIA and developmental outcomes using murine models\nConducted laboratory procedures including RNA extraction, sample preparation, and experimental workflow support\nAssisted with study design, data collection, documentation, and literature review synthesis for neuroscience research\n\n\n\nSummer Intern\nTIDE at Harvard Pilgrim Health Care Institute\nJune 2024 - August 2024\nBoston, MA\n\nUtilized large-scale healthcare datasets to support FDA Sentinel initiatives for post-market medical product surveillance\nDeveloped and curated documentation for Sentinel’s advanced analytic tools and methodologies supporting the FDA’s initiative to monitor medical product safety\nCollaborated with cross-functional teams to improve accessibility and usability of technical resources\n\n\n\nHealth Communication Undergraduate Research Assistant\nUniversity of Illinois at Urbana-Champaign\nAugust 2022 - December 2022\nChampaign, IL\n\nAssisted with a patient-provider communication research study examining interaction patterns and participant responses\nManaged survey randomization and documented assigned experimental conditions\nSupported data organization by reviewing de-identified participant responses, identifying inconsistencies, inputting participant scores, and maintaining organized research documentation\n\n\n\nHuman Resources Intern\nLafarge Holcim\nJune 2022 - August 2022\nChicago, IL\n\nDeveloped a comprehensive employee database across all branches\nWorked on union negotiation processes by assisting with resolving employee issues"
+  },
+  {
+    "objectID": "index.html#certification",
+    "href": "index.html#certification",
+    "title": "Shivya Paul",
+    "section": "Certification",
+    "text": "Certification\n\nGoogle Project Management: Professional Certificate\nIn Progress\n\nRelevant training in project planning, stakeholder communication, Agile project management, risk management, project documentation, and project execution"
+  }
+]
