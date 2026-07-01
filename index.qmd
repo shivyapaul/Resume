@@ -1,7 +1,79 @@
 ---
-title: "resume"
+title: "Shivya Paul"
 ---
 
-This is a Quarto website.
+(217)-898-8469 | https://www.linkedin.com/in/shivya-paul/ | shivyapaul1@gmail.com
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
+
+### University of Wisconsin Madison
+**Master of Science in Psychology: Data Science in Human Behavior**  
+August 2025 - December 2026
+
+### University of Illinois Urbana-Champaign
+**Bachelor of Science in Psychology (Behavioral Neuroscience)**  
+August 2021 - May 2025  
+GPA: 3.77/4  
+Communication Minor  
+LAS James Scholar, Dean's List 2023, 2024
+
+### Relevant Coursework
+
+Behavioral Neuroscience, Programming for Behavioral Data Science, Design and Analysis of Psychological Experiments, Applied Machine Learning for Behavioral Data Science, Interpersonal Communication, Industrial Organizational Psychology, Psychology of Personality, Public Speaking, Introduction to Advertising, Communicating Public Policy, Writing and Research
+
+## Technical Skills
+
+Python, R, Excel, Statistical Analysis, Experimental Design, Survey Methodology, Data Collection, Quantitative Research, Qualitative Research, Research Documentation, Generative AI, Large Language Models, Prompt Design
+
+## Experience
+
+### Graduate Student Researcher - Survey Responder Project
+**University of Wisconsin-Madison**  
+March 2026 - Present  
+Madison, WI
+
+- Examined the use of large language models to generate survey responses for higher education research
+- Leveraged Ollama to generate and manage AI-produced survey responses for project testing and evaluation
+- Contributed to research activities involving generative AI, prompt design, survey methodology, and applied data science
+
+### Research Assistant at Antonson Developmental Neuroimmunology Laboratory
+**University of Illinois at Urbana-Champaign**  
+November 2024 - May 2025  
+Champaign, IL
+
+- Supported neuroimmunology research investigating MIA and developmental outcomes using murine models
+- Conducted laboratory procedures including RNA extraction, sample preparation, and experimental workflow support
+- Assisted with study design, data collection, documentation, and literature review synthesis for neuroscience research
+
+### Summer Intern
+**TIDE at Harvard Pilgrim Health Care Institute**  
+June 2024 - August 2024  
+Boston, MA
+
+- Utilized large-scale healthcare datasets to support FDA Sentinel initiatives for post-market medical product surveillance
+- Developed and curated documentation for Sentinel's advanced analytic tools and methodologies supporting the FDA's initiative to monitor medical product safety
+- Collaborated with cross-functional teams to improve accessibility and usability of technical resources
+
+### Health Communication Undergraduate Research Assistant
+**University of Illinois at Urbana-Champaign**  
+August 2022 - December 2022  
+Champaign, IL
+
+- Assisted with a patient-provider communication research study examining interaction patterns and participant responses
+- Managed survey randomization and documented assigned experimental conditions
+- Supported data organization by reviewing de-identified participant responses, identifying inconsistencies, inputting participant scores, and maintaining organized research documentation
+
+### Human Resources Intern
+**Lafarge Holcim**  
+June 2022 - August 2022  
+Chicago, IL
+
+- Developed a comprehensive employee database across all branches
+- Worked on union negotiation processes by assisting with resolving employee issues
+
+## Certification
+
+### Google Project Management: Professional Certificate
+In Progress
+
+- Relevant training in project planning, stakeholder communication, Agile project management, risk management, project documentation, and project execution
